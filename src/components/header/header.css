@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+
+.myLogo{
+    margin-left: 20px !important;
+}
+
+.myNav{
+  background-color: rgb(255, 255, 255) !important;
+  box-shadow: 2px 2px 4px rgb(161, 161, 161);
+}
+
+.my-ul{
+    width: 60% !important;
+    justify-content: space-around;
+}
+
+.my-ul li a{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.my-ul li a:hover{
+    color: rgb(21, 110, 64) !important;
+}
+
+.active{
+    color: rgb(21, 110, 64) !important;
+   }
